@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../Documents/GitHub/Activity-3_WrapUp_JSMalacas"
+		},
+		{
+			"path": "../../Documents/GitHub/Acitvity-3_WrapUp_Malacas/css"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Activity-3_WrapUp_JSMalacas",
+		"liveServer.settings.port": 5501
+	}
+}
